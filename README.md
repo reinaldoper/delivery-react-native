@@ -54,7 +54,13 @@ Este é um aplicativo desenvolvido em React Native. O aplicativo permite que os 
 
 6. Um pequeno spoiler do App:
 
-[App](./assets/delivery.webm)
+<details>
+  <summary>Clique para ver o spoiler</summary>
+  <video controls>
+    <source src="./assets/delivery.webm" type="video/webm">
+  </video>
+</details>
+
 
 ## Estrutura do Projeto:
 
@@ -70,9 +76,11 @@ Este é um aplicativo desenvolvido em React Native. O aplicativo permite que os 
 │   │   └── Details.js
 │   │   └── Categorys.js
 │   │   └── FilterCategory.js
+│   │   └── NoAlcoholic.js
 │   ├── routes/
 │   │   ├── indexRoute.js
 │   │   └── [bottonsNavigate.js](http://_vscodecontentref_/0)
+│   │   ├── topNavigation.js
 │   ├── service/
 │   │   ├── fetchAlcoholic.js
 │   │   └── fetchMargarita.js
