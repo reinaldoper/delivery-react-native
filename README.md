@@ -57,8 +57,8 @@ Este é um aplicativo desenvolvido em React Native. O aplicativo permite que os 
 <details>
   <summary>Clique para ver o spoiler</summary>
   
-  ![VideoApp](./assets/delivery.webm)
-  
+  [VideoApp](./assets/delivery.webm)
+
 </details>
 
 
